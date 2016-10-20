@@ -5,7 +5,7 @@
 ##Deadlines
 Meneer Peeters vertelt tijdens de les van 20/10/2016 dat er geen tussentijdse deadlines zullen zijn omdat elk aspect van de documentatie gaande weg kan wijzigen. We geven een eindpresentatie ip 12/02/2017.
 
-## vooropgestelde stappen
+## Vooropgestelde stappen
 Stappenplan om tot een Lean Canvas voor je business concept te komen:
 
 1. Vorm een team van 4 of 5 studenten waarin je het start-up idee gaat uitwerken.
@@ -20,7 +20,7 @@ Stappenplan om tot een Lean Canvas voor je business concept te komen:
 Conner Maes, Jelle Pauchet, Samme Robbroeckx en Matthias Boen zullen het team vormen.
 
 ## 2. Brainstorm
-Link naar ppt van pitch Matthias
+We baseren ons op de het idee van Matthias. Link naar zijn [Pitch]().
 
 We controleren of we de op voorhand opgestelde eisen behalen:
 - Innovatief product: Yes
@@ -34,8 +34,9 @@ We controleren of we de op voorhand opgestelde eisen behalen:
 - ONDERNEMING: Yes
  - Beginnen als VOF en later veranderen naar BVBA of direct BVBA gaan als er voldoende interesse is uit vanuit de financiële markt
 - Haalbaar verdienmodel: mogelijk om op termijn winstgevend te worden: Yes
- - Productie zal redelijk goedkoop zijn en mensen met moto’s betalen graag veel geld voor het verhogen van hun veiligheid 
+ - Productie zal redelijk goedkoop zijn en mensen met moto’s betalen graag veel geld voor het verhogen van hun veiligheid
 - Drijfveer (WHY?) : commercieel en sociaal innovatief: Yes
  - We hebben een motorrijder in de groep
- 
-## 3.Bussinnesconcept
+
+## 3. Business concept
+Dit hoofdstuk is gebaseerd op [deze]() info uit de les.
