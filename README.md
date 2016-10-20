@@ -1,4 +1,4 @@
-*Nog onder constructie, moet nog nagelezen en grammatisch gecontroleerd worden*
+*Nog onder constructie, moet nog na te lezen en grammatisch gecontroleerd worden*
 
 # Ondernemen
 
