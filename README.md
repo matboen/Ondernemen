@@ -9,14 +9,7 @@ Meneer Peeters vertelt tijdens de les van 20/10/2016 dat er geen tussentijdse de
 Stappenplan om tot een Lean Canvas voor je business concept te komen:
 
 1. Vorm een team van 4 of 5 studenten waarin je het start-up idee gaat uitwerken.
-2. Brainstorm in team om tot een start-up idee te komen, gebruik de Startup Masterclass 1 - Genesis: idea stageFile van Omar Mohout als leidraad. Check of je start-up idee voldoet aan de vereisten*, cfr onderaan deze tekst.
-- Innovatief product of idee
-- eigen concept (zelf bedacht!),
-- Digitale technologie wordt gebruikt als hefboom
-- Snel globaal schaalbaar (geen lineaire afhankelijkheid van menselijk kapitaal) 
-- ONDERNEMING (geen vzw, publieke dienst of nieuwe activiteit in bestaand bedrijf) 
-- Haalbaar verdienmodel: mogelijk om op termijn winstgevend te worden
-- Drijfveer (WHY?) : commercieel en/of sociaal innovatief
+2. Brainstorm in team om tot een start-up idee te komen, gebruik de Startup Masterclass 1 - Genesis: idea stageFile van Omar Mohout als leidraad. Check of je start-up idee voldoet aan de vereisten, te vinden in "2. Brainstorm"
 3. Werk je idee uit tot een business concept - volg daarbij het stappenplan dat we zagen in de theorieles: Les 4 Lean Canvas - Stappenplan
 4. Documenteer je business concept d.m.v. 'Lean Canvas'. Vul de Lean Canvas template in en detailleer deze in een aantal slides, waarin je elk van de vakjes van de Lean Canvas template uitwerkt.
 5. Bereid met je team een presentatie voor van de Lean Canvas & de bijhorende slides
