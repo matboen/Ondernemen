@@ -40,3 +40,6 @@ We controleren of we de op voorhand opgestelde eisen behalen:
 
 ## 3. Business concept
 Dit hoofdstuk is gebaseerd op [deze](https://github.com/matboen/Ondernemen/blob/master/Documentation/LeanCanvas7stepsToSucces.pdf) info uit de les.
+
+We maken een lean canvas om onderstaand online platform op basis van de richtlijnen van het bovenstaand document.
+[link naar online Canvas](https://canvanizer.com/canvas/wcUt8vyXLL1jx)
