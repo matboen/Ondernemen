@@ -1,3 +1,5 @@
+*Nog onder constructie, moet nog nagelezen en grammatisch gecontroleerd worden*
+
 # Ondernemen
 
 [TOC]
@@ -41,27 +43,24 @@ We controleren of we de op voorhand opgestelde eisen behalen:
 ## 3. Business concept
 Dit hoofdstuk is gebaseerd op [deze](https://github.com/matboen/Ondernemen/blob/master/Documentation/LeanCanvas7stepsToSucces.pdf) info uit de les.
 
-We maken een lean canvas om onderstaand online platform op basis van de richtlijnen van het bovenstaand document.
-[link naar online Canvas](https://canvanizer.com/canvas/wcUt8vyXLL1jx)
-
 Zoals beschreven in de PDF pagina dertien zullen we het Lean Canvas opstellen in zeven stappen.
 1. Problem: Het probleem en de consumenten die het probleem ondervinden omschrijven
 2. Unique value proposition: Wat maakt ons het competentste team/bedrijf om dit product te maken tov concurentie
 3. Solution: Onze oplossing op het probleem
 4. Channels: Via welke kanalen zulen we het product verkopen
-5. Cost structure and revenue stream: Hoe maken we kosten en winst
+5. Cost structure and revenue streams: Hoe maken we kosten en winst
 6. Key metrics: Hoofdactiviteiten die je een perseptie van succes geven? Key activities you mesure.
 7. Unfair advantage: Ons voordeel tegen over de concurentie (ons nog niet helemaal duidelijk, komt wel)
 
 ### 3.1 Problem
 #### Hebben we een probleem dat de moeite is om op te lossen?
-"Uit de uitgevoerde regressie blijkt geen significant verband te bestaan tussen de kans op een ongeval en het aantal jaren rijervaring." [Bron, p65](https://github.com/matboen/Ondernemen/blob/master/Documentation/rapport-motorrijders.pdf).
+*"Uit de uitgevoerde regressie blijkt geen significant verband te bestaan tussen de kans op een ongeval en het aantal jaren rijervaring."* [Bron, p65](https://github.com/matboen/Ondernemen/blob/master/Documentation/rapport-motorrijders.pdf).
 
-"Toch schreef ook 30% van de respondenten het ongeval toe aan het gebrek aan rijervaring." [Bron, p66](https://github.com/matboen/Ondernemen/blob/master/Documentation/rapport-motorrijders.pdf).
+*"Toch schreef ook 30% van de respondenten het ongeval toe aan het gebrek aan rijervaring."* [Bron, p66](https://github.com/matboen/Ondernemen/blob/master/Documentation/rapport-motorrijders.pdf).
 
-"Iets meer dan de helft (nl. 53%) van de respondenten draagt altijd de volledige veiligheidskledij." [Bron, p66](https://github.com/matboen/Ondernemen/blob/master/Documentation/rapport-motorrijders.pdf).
+*"Iets meer dan de helft (nl. 53%) van de respondenten draagt altijd de volledige veiligheidskledij."* [Bron, p66](https://github.com/matboen/Ondernemen/blob/master/Documentation/rapport-motorrijders.pdf).
 
-"Data shows in 2013 that the most harmful event for 2,448 (51%) of the 4,774 motorcycles involved in fatal crashes was a collision with a motor vehicle in transport."[Bron, p3](https://github.com/matboen/Ondernemen/blob/master/Documentation/2013%20Motorcycles%20Traffic%20Safety%20Fact%20Sheet.pdf).
+*"Data shows in 2013 that the most harmful event for 2,448 (51%) of the 4,774 motorcycles involved in fatal crashes was a collision with a motor vehicle in transport."* [Bron, p3](https://github.com/matboen/Ondernemen/blob/master/Documentation/2013%20Motorcycles%20Traffic%20Safety%20Fact%20Sheet.pdf).
 
 Hierboven leest u enkele quotes uit een analyse van het profiel, rijgedrag en ongevallenbetrokkenheid van motorrijders in Vlaanderen van het instituut voor mobiliteit en uit Traffic Safety Facts van het National Highway Traffic Safety Administration van de overheid van de Verenigde Staten. Zij geven ons de mogelijkheid te zeggen dat er heel wat ongevallen gebeuren met moto's. De helft daarvan gebeurt zonder tweede partij. De helft van de motorrijders hecht veel belang aan zijn veiligheid en draagt daarom steeds een volledig pak, wat niet goedkoop is. Wij willen een systeem bouwen dat bij een ongeval bekijkt of de motorrijder nog reageerd en afhankelijk daarvan de hulpdiensten inlicht.
 
@@ -80,12 +79,56 @@ We bouwen een product dat uw kans op overleven verhoogt door de [eerste stappen 
   - geef de locatie, aard van het ongeval en identificatie van vermoedelijke slachtoffers
 
 ### 3.4 Channels
-#### Communicatie
+Hoe bereiken we onze klanten? Interview met mogelijke klanten?
 
-#### Distributie
+Als je het motorrijden als een niche markt van het persoonlijk vervoer bekijkt zie je ook meteen dat de gebruikers al hun benodigdheden op slechts enkele locaties verzamelen. Wanneer we de verkoopscijfers van afgelopen jaren in Nederland vergelijkt tussen nieuwe en tweede hands zie je al snel dat de meeste klanten 2e hands kopen. nog niet zeker of dit in mijn voordeel is... [Bron, p22](https://github.com/matboen/Ondernemen/blob/master/Documentation/Mobiliteit-in-Cijfers-Tweewielers-2015-webversie.pdf)
 
-#### Verkoop
+**Reclame maken**. In heel Vlaanderen zijn er slechts een tiental winkels waar men motokledij verkoopt. Dat zijn plaatsen om te investeren. Verder racecircuits, autosalon, motorclub, motordemonstraties en mogelijk wat slim gerichte google adds. In België waren er op 31/12/2014 zo'n 425.000 moto's ingeschreven. [Bron, p25](https://github.com/matboen/Ondernemen/blob/master/Documentation/Mobiliteit-in-Cijfers-Tweewielers-2015-webversie.pdf). Het heeft dus geen zin om TV reclame te maken of banners langs de weg want ondanks dat u daar mogelijk 95% van uw doelpubliek mee bereikt is dat slechts 2%-4% van het totaal bereikte publiek en kost zo'n campagne dus 95% te veel. Inbound channals zijn dus the way to go.
 
-#### na verkoop supprt
+Het **verdelen** van de modules zou ik lauter via internet. Eens het product zich wat heeft bewezen willen we het ook via een motokledij-winkelketen als RAD doen. Via internet en de post kunnen we mensen overal bereiken en voor zij die liever menselijk contact hebben is RAD een goede oplossing. RAD is een grote keten die in elke provintie wel een filiaal heeft en dus zeer bekend is onder motorrijders. We beginnen met direct channals en voegen er nadien indirect channals aan toe.
 
-[** * slide30 * **](https://learning.ap.be/pluginfile.php/26406/mod_resource/content/1/Lean%20Canvas%207%20steps%20to%20succes.pdf)
+De **naverkoop support** kan via de post of via RAD.
+
+### 3.5 Cost structure and revenue stream
+krijgt meer vorm gaande weg
+Wat zal wat kosten?
+waarop moeten we ons baseren?
+
+### 3.6 Key metrics
+Omdat motorijders best wel willen investeren in hun eigen veiligheid, gezien hun relatief kwetsbare positie en het systeem enkel maar resoluut ingrijpen bij ongevallen zal vertrouwen van de gebruiker winnen en zo krachtige mond-aan-mond reclame maken in motorclubs en internetfora.
+Verder leven we onder het moto "make meaning, not monney" wat in deze contrext evengoed "save lives, not money" zou kunnen zijn :).
+
+### 3.7 Unfair advantage
+imagine your co-founder steals your source code, sets up shop in Costa Rica, and slashes prices. Do you still have a business?
+"A real unfair advantage is something that cannot be easily copied or bought.
+
+Ik zie nog niet direct wat dat bij ons kan zijn, we zijn allemaal middelmaats in ons kunnen tov de volledige arbeidsmarkt, leven in een land met een enorme arbeidskost en zitten op een moment waar het moeilijk is om financiering te vinden. Maar we vinden wel iets! :) (mss telt motivatie!)
+
+Goed klanteninfo verzamelen en hopen dat we die mogen teisteren met info over volgende producten en onze o zo belangrijke community
+
+## Maak canvas lean
+We maken een lean canvas op basis van de informatie die we reeds opbouwden.
+[link naar online Canvas](https://canvanizer.com/canvas/wcUt8vyXLL1jx)
+
+## Maak presentatie
+
+## Customer interviews
+
+### 30min in-person with your prototypical customer (expand worldview)
+
+1. set context and tell your story
+2. Tell your problem hypothesis
+3. Listen to their worldview
+4. Ask for follow up
+
+### Online market test
+
+Google adwords
+Fake landing page with "signup to be notified when we launch" and "can we call you to ask a couple of Qs?"
+
+### User groups and conferences
+
+Hand out cards with invite codes - landings page with "join our soon-to-launch beta programme"
+
+### Sales safari
+Lurk in online forums of your customer segment, learn how they talk about products and benefits
