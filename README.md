@@ -108,7 +108,8 @@ Goed klanteninfo verzamelen en hopen dat we die mogen teisteren met info over vo
 
 ## Maak canvas lean
 We maken een lean canvas op basis van de informatie die we reeds opbouwden.
-[link naar online Canvas](https://canvanizer.com/canvas/wcUt8vyXLL1jx)
+[link naar online Canvas](https://app.leanstack.com/canvases/p/09cbd4d5-85a2-4ef8-8e6a-2243dca6a9b9)
+[edit](https://app.leanstack.com/timelines/238497)
 
 ## Maak presentatie
 
