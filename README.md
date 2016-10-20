@@ -3,7 +3,7 @@
 [TOC]
 
 ##Deadlines
-Meneer Peeters vertelt tijdens de les van 20/10/2016 dat er geen tussentijdse deadlines zullen zijn omdat elk aspect van de documentatie gaande weg kan wijzigen. We geven een eindpresentatie ip 12/02/2017.
+Meneer Peeters vertelt tijdens de les van 20/10/2016 dat er geen tussentijdse deadlines zullen zijn omdat elk aspect van de documentatie gaande weg kan wijzigen. We geven een eindpresentatie op 12/01/2017.
 
 ## Vooropgestelde stappen
 Stappenplan om tot een Lean Canvas voor je business concept te komen:
@@ -20,7 +20,7 @@ Stappenplan om tot een Lean Canvas voor je business concept te komen:
 Conner Maes, Jelle Pauchet, Samme Robbroeckx en Matthias Boen zullen het team vormen.
 
 ## 2. Brainstorm
-We baseren ons op de het idee van Matthias. Link naar zijn [Pitch]().
+We baseren ons op de het idee van Matthias. Link naar zijn [Pitch](https://github.com/matboen/Ondernemen/blob/master/Documentation/PitchMatthias.pdf).
 
 We controleren of we de op voorhand opgestelde eisen behalen:
 - Innovatief product: Yes
@@ -39,4 +39,4 @@ We controleren of we de op voorhand opgestelde eisen behalen:
  - We hebben een motorrijder in de groep
 
 ## 3. Business concept
-Dit hoofdstuk is gebaseerd op [deze]() info uit de les.
+Dit hoofdstuk is gebaseerd op [deze](https://github.com/matboen/Ondernemen/blob/master/Documentation/LeanCanvas7stepsToSucces.pdf) info uit de les.
