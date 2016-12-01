@@ -15,7 +15,7 @@ Stappenplan om tot een Lean Canvas voor je business concept te komen:
 3. Werk je idee uit tot een business concept - volg daarbij het stappenplan dat we zagen in de theorieles: Les 4 Lean Canvas - Stappenplan
 4. Documenteer je business concept d.m.v. 'Lean Canvas'. Vul de Lean Canvas template in en detailleer deze in een aantal slides, waarin je elk van de vakjes van de Lean Canvas template uitwerkt.
 5. Bereid met je team een presentatie voor van de Lean Canvas & de bijhorende slides
-6. Presenteer je business concept op donderdag 12 februari 2017. Elk team krijgt 20 minuten - timing: 8.30-11u: 3EA2 / 11.30-14u: 3EA1
+6. Presenteer je business concept op donderdag 12 januari 2017. Elk team krijgt 20 minuten - timing: 8.30-11u: 3EA2 / 11.30-14u: 3EA1
 7. Laad de presentatie van je team hier op, eventueel aangevuld met bijlagen (bijv. spreadsheet met het overzicht van je inkomsten & kosten, mockups, customer interviews,...)
 
 ## 1. Team
@@ -107,7 +107,7 @@ Ik zie nog niet direct wat dat bij ons kan zijn, we zijn allemaal middelmaat in 
 
 Goed klanteninfo verzamelen en hopen dat we die mogen teisteren met info over volgende producten en onze o zo belangrijke community
 
-## Maak canvas lean
+## 4. Maak canvas lean
 We maken een lean canvas op basis van de informatie die we reeds opbouwden.
 
 [link naar online Canvas](https://app.leanstack.com/canvases/p/09cbd4d5-85a2-4ef8-8e6a-2243dca6a9b9)
